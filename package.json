@@ -1,0 +1,10 @@
+{
+  "name": "michealblackchaturbate51",
+  "version": "1.0.0",
+  "description": "Profile repo for michealblackchaturbate51 showcasing 3 main projects in AI, Tokenization, and Bitcoin: mind-ai-simulator, token-safeguard, and btc-lightning-analytics. Central hub for open-source experimentation and analytics.",
+  "main": "bin/autoinit.js",
+  "bin": { "autoinit": "./bin/autoinit.js" },
+  "scripts": { "start": "node bin/autoinit.js" },
+  "dependencies": { "axios": "^1.6.2", "inquirer": "^9.2.0" },
+  "license": "MIT"
+}
